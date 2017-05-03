@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name" : "ian",
+            "testData" : "1"
+        },
+        {
+            "name" : "john",
+            "testData" : "2"
+        },
+        {
+            "name" : "dope",
+            "testData" : "3"
+        },
+        {
+            "name" : "homer",
+            "testData" : "4"
+        },
+        {
+            "name" : "gilbert",
+            "testData" : "5"
+        },
+        {
+            "name" : "wilson",
+            "testData" : "6"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ianzro/testMock",
+    "description": "Testing the aspectmock.",
+    "keywords": ["test", "aspectmock"],
+    "authors": [
+        {
+            "name": "Ian Christopher Magtaas",
+            "email": "ianzro@live.com"
+        }
+    ],
+    "require-dev": {
+        "codeception/aspect-mock": "^2.0",
+        "phpunit/phpunit": "^6.1"
+    }
+}
